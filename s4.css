@@ -1,0 +1,39 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.head{
+    height: 50px;
+    background-color: hsl(204.07deg 69.87% 53.14%);
+    color: white;
+    gap: 10px;
+    margin: 10px;
+    padding: 7px;
+}
+.body{
+    display: flex;
+    gap: 10px;
+    margin: 10px;
+}
+.body2{
+    width: 25%;
+    height: 400px;
+    background-color: hsl(145.44deg 63.2% 49.02%);
+    color: white;
+    padding: 7px;
+}
+.body3{
+    width: 75%;
+    height: 400px;
+    background-color: hsl(5.61deg 78.08% 57.06%);
+    color: white;
+    padding: 7px;
+}
+.foot{
+    height: 50px;
+    background-color: hsl(282.58deg 38.91% 53.14%);
+    color: white;
+    margin: 10px;
+    padding: 7px;
+}

@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+nav{
+    margin-top: 155px;
+    margin-left: 500px;
+    border: 2px solid black;
+    width: 400px;
+    height: 400px;
+    background-color: rgb(216, 207, 207);
+}
+div{
+    margin: 155px;
+    background-color: aqua;
+    width: 80px;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: nowrap;
+}
